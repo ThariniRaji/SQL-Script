@@ -1,0 +1,1 @@
+select count(student_name),department from candidate group by department order by count(student_name) desc

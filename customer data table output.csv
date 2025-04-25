@@ -1,0 +1,5 @@
+customer_id,customer_name,customer_address,city,state,ZIP_code
+1,"John Doe","329 Sunset Blvd","New York",NT,10059
+3,"Richard Newman","2040 Riverside Rd","San Diego",CA,92010
+2,"Mary Smity","6900 Main St","San Francisco",CA,94032
+4,"Cathy Cook","4010 Speed Way",Tucson,AZ,85719
